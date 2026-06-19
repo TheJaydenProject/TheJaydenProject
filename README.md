@@ -19,9 +19,9 @@
 
 </div>
 
-Fullstack dev, currently studying AI/ML, cybersecurity, and DevOps. Check the pinned repos.
-
 ---
+
+Fullstack dev, currently studying AI/ML, cybersecurity, and DevOps. Check the pinned repos.
 
 ## Stats
 
