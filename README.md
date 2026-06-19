@@ -2,7 +2,7 @@
 
 # Jayden Wong
 
-**Full-Stack Developer**
+## Full-Stack Developer
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
@@ -16,6 +16,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)]()
 
 </div>
 
@@ -29,7 +30,7 @@ Fullstack dev, currently studying AI/ML, cybersecurity, and DevOps. Check the pi
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJaydenProject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=9BA7B4&ring_color=7C3AED)](https://github.com/TheJaydenProject)
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJaydenProject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=9BA7B4&hide=jupyter%20notebook)](https://github.com/TheJaydenProject)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJaydenProject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=9BA7B4&hide=jupyter%20notebook,c%23,shaderlab,hlsl)](https://github.com/TheJaydenProject)
 
 </div>
 
