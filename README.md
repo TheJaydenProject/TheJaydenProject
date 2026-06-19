@@ -33,8 +33,6 @@ Fullstack dev, currently studying AI/ML, cybersecurity, and DevOps. Check the pi
 
 </div>
 
----
-
 ## Activity
 
 <div align="center">
