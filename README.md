@@ -40,6 +40,6 @@ Fullstack dev, working on AI/ML, cybersecurity, and DevOps. Check the pinned rep
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/TheJaydenProject/TheJaydenProject/output/github-contribution-grid-snake-dark.svg)
+![Pac-Man contribution graph](https://raw.githubusercontent.com/TheJaydenProject/TheJaydenProject/output/pacman-contribution-graph-dark.svg)
 
 </div>
